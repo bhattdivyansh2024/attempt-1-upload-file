@@ -1,0 +1,41 @@
+[
+  {
+    "location": "Taj Mahal",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "visitor_count": 850,
+    "crowd_level": "High",
+    "temperature": 34,
+    "weather": "Sunny",
+    "date": "2026-07-13",
+    "drone_status": "Completed"
+  },
+  {
+    "location": "Taj Mahal East Gate",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1735,
+    "longitude": 78.0442,
+    "visitor_count": 620,
+    "crowd_level": "Medium",
+    "temperature": 34,
+    "weather": "Sunny",
+    "date": "2026-07-13",
+    "drone_status": "Completed"
+  },
+  {
+    "location": "Taj Nature Walk",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "latitude": 27.1688,
+    "longitude": 78.0475,
+    "visitor_count": 280,
+    "crowd_level": "Low",
+    "temperature": 33,
+    "weather": "Sunny",
+    "date": "2026-07-13",
+    "drone_status": "Completed"
+  }
+]
