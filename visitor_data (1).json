@@ -1,0 +1,218 @@
+[
+  {
+    "location": "Qutub Minar",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 860,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Qutub Minar",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 620,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Qutub Minar",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 480,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Aravalli Biodiversity Park",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 890,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Aravalli Biodiversity Park",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 550,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Aravalli Biodiversity Park",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 180,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "India Gate",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 900,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "India Gate",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 550,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "India Gate",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 220,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Bhagwan Mahavir Vanasthali Park",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 780,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Bhagwan Mahavir Vanasthali Park",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 570,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Bhagwan Mahavir Vanasthali Park",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 210,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Buddha Jayanti Park",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 800,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Buddha Jayanti Park",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 570,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Buddha Jayanti Park",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 300,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Central Ridge Reserve Forest",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 780,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Central Ridge Reserve Forest",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 600,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Central Ridge Reserve Forest",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 140,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Red Fort",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 810,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Red Fort",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 610,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Red Fort",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 100,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Nature Walk",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 800,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Nature Walk",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 440,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Nature Walk",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 250,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Mahal",
+    "temperature": 20,
+    "weather": "Pleasant",
+    "visitor_count": 1000,
+    "crowd_level": "High",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Mahal",
+    "temperature": 25,
+    "weather": "Cloudy",
+    "visitor_count": 500,
+    "crowd_level": "Medium",
+    "drone_status": "Active"
+  },
+  {
+    "location": "Taj Mahal",
+    "temperature": 30,
+    "weather": "Sunny",
+    "visitor_count": 180,
+    "crowd_level": "Low",
+    "drone_status": "Active"
+  }
+]
