@@ -1,0 +1,110 @@
+[
+  {
+    "location": "Qutub Minar",
+    "latitude": 28.5244,
+    "longitude": 77.1855,
+    "temperature": 31,
+    "visitor_count": 850,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 92,
+    "drone_status": "Active",
+    "time": "2026-07-16T09:00:00Z"
+  },
+  {
+    "location": "Qutub Minar",
+    "latitude": 28.5244,
+    "longitude": 77.1855,
+    "temperature": 33,
+    "visitor_count": 920,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 88,
+    "drone_status": "Active",
+    "time": "2026-07-16T12:00:00Z"
+  },
+  {
+    "location": "Qutub Minar",
+    "latitude": 28.5244,
+    "longitude": 77.1855,
+    "temperature": 29,
+    "visitor_count": 610,
+    "crowd_level": "Medium",
+    "weather": "Cloudy",
+    "drone_battery": 81,
+    "drone_status": "Active",
+    "time": "2026-07-16T15:00:00Z"
+  },
+  {
+    "location": "India Gate",
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "temperature": 34,
+    "visitor_count": 780,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 90,
+    "drone_status": "Active",
+    "time": "2026-07-16T09:00:00Z"
+  },
+  {
+    "location": "India Gate",
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "temperature": 36,
+    "visitor_count": 990,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 84,
+    "drone_status": "Active",
+    "time": "2026-07-16T12:00:00Z"
+  },
+  {
+    "location": "India Gate",
+    "latitude": 28.6129,
+    "longitude": 77.2295,
+    "temperature": 31,
+    "visitor_count": 540,
+    "crowd_level": "Medium",
+    "weather": "Cloudy",
+    "drone_battery": 78,
+    "drone_status": "Active",
+    "time": "2026-07-16T15:00:00Z"
+  },
+  {
+    "location": "Taj Mahal",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "temperature": 30,
+    "visitor_count": 900,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 95,
+    "drone_status": "Active",
+    "time": "2026-07-16T09:00:00Z"
+  },
+  {
+    "location": "Taj Mahal",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "temperature": 32,
+    "visitor_count": 1050,
+    "crowd_level": "High",
+    "weather": "Sunny",
+    "drone_battery": 89,
+    "drone_status": "Active",
+    "time": "2026-07-16T12:00:00Z"
+  },
+  {
+    "location": "Taj Mahal",
+    "latitude": 27.1751,
+    "longitude": 78.0421,
+    "temperature": 28,
+    "visitor_count": 650,
+    "crowd_level": "Medium",
+    "weather": "Cloudy",
+    "drone_battery": 82,
+    "drone_status": "Active",
+    "time": "2026-07-16T15:00:00Z"
+  }
+]
